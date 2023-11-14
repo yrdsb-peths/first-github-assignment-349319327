@@ -5,5 +5,5 @@ public class Student{
   System.out.println(myName);
   Rectangle rect = Reactangle(2, 7);
   rect.setPosition(100,200);
-  
+  rect.setcolor(Color.red);
 }
